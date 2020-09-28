@@ -1,0 +1,11 @@
+C:\Users\ybenhail\source\repos\GestionContaactFinal\BLL\bin\Debug\BLL.dll
+C:\Users\ybenhail\source\repos\GestionContaactFinal\BLL\bin\Debug\BLL.pdb
+C:\Users\ybenhail\source\repos\GestionContaactFinal\BLL\bin\Debug\DAL.dll
+C:\Users\ybenhail\source\repos\GestionContaactFinal\BLL\bin\Debug\Model.dll
+C:\Users\ybenhail\source\repos\GestionContaactFinal\BLL\bin\Debug\DAL.pdb
+C:\Users\ybenhail\source\repos\GestionContaactFinal\BLL\bin\Debug\Model.pdb
+C:\Users\ybenhail\source\repos\GestionContaactFinal\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\ybenhail\source\repos\GestionContaactFinal\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ybenhail\source\repos\GestionContaactFinal\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ybenhail\source\repos\GestionContaactFinal\BLL\obj\Debug\BLL.dll
+C:\Users\ybenhail\source\repos\GestionContaactFinal\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,9 @@
+C:\Users\ybenhail\source\repos\GestionContaactFinal\DAL\bin\Debug\DAL.pdb
+C:\Users\ybenhail\source\repos\GestionContaactFinal\DAL\bin\Debug\Model.dll
+C:\Users\ybenhail\source\repos\GestionContaactFinal\DAL\bin\Debug\Model.pdb
+C:\Users\ybenhail\source\repos\GestionContaactFinal\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ybenhail\source\repos\GestionContaactFinal\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ybenhail\source\repos\GestionContaactFinal\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ybenhail\source\repos\GestionContaactFinal\DAL\obj\Debug\DAL.pdb
+C:\Users\ybenhail\source\repos\GestionContaactFinal\DAL\bin\Debug\DAL.dll
+C:\Users\ybenhail\source\repos\GestionContaactFinal\DAL\obj\Debug\DAL.dll

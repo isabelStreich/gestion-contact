@@ -1,0 +1,5 @@
+C:\Users\ybenhail\source\repos\GestionContaactFinal\Model\bin\Debug\Model.dll
+C:\Users\ybenhail\source\repos\GestionContaactFinal\Model\bin\Debug\Model.pdb
+C:\Users\ybenhail\source\repos\GestionContaactFinal\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\ybenhail\source\repos\GestionContaactFinal\Model\obj\Debug\Model.dll
+C:\Users\ybenhail\source\repos\GestionContaactFinal\Model\obj\Debug\Model.pdb
